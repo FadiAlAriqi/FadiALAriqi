@@ -2,8 +2,6 @@
 
 <!--
 **FadiAlAriqi/FadiALAriqi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
-
-<img src="https://www.freepik.com/free-vector/hacker-activity-concept_7970712.htm#fromView=image_search_similar&page=1&position=26&uuid=770bda6e-76d6-46b2-a332-da5bb6d56053"/>
 - ⚡ Frameworks I Work With:
             <ul>
                 <li>Laravel</li>
