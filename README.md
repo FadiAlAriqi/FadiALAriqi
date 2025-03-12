@@ -9,7 +9,7 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b7611ocqx16ya4b8yjm6slbz7px6qb0pxmhgqmjwbc3t2&ep=v1_gifs_search&rid=giphy.gif&ct=g" style="border-radius: 50%; width: 300px;">
 </div>
 
-<h3 align="center">🚀 Full Stack Developer | Laravel & Frappe & Vue JS Specialist</h3>
+<h3 align="center">🚀 Full Stack Developer | Laravel & Frappe & Vue js Specialist</h3>
 
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F72E&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Laravel+Specialist;Vue+JS+Specialist;Nuxt+JS+Specialist;Frappe+Specialist;ERPNext+Customization+Expert;Building+Awesome+Web+Apps;Open+Source+Enthusiast;" alt="Typing Animation" /></p>
