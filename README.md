@@ -64,6 +64,10 @@
 + 📚 Mastering ERPNext Customization Techniques
 ```
 
+<img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" style="visibility:visible;max-width:100%;">
+
+<br/> <br/> <br/>
+
 📫 Contact Me
 <div align="center">
   <a href="https://wa.me/778535667" target="_blank"> <img src="https://img.icons8.com/3d-fluency/94/whatsapp.png" alt="WhatsApp" width="60"/> </a> 
@@ -72,6 +76,4 @@
   <a href="https://github.com/FadiAlAriqi" target="_blank"> <img src="https://img.icons8.com/3d-fluency/94/github.png" alt="GitHub" width="60"/> </a> 
 <!--   <a href="https://t.me/yourprofile" target="_blank"> <img src="https://img.icons8.com/3d-fluency/94/telegram.png" alt="Telegram" width="60"/> </a> -->
 </div>
-
-<img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg" style="visibility:visible;max-width:100%;">
 
