@@ -63,7 +63,8 @@
 + 🔥 Implementing Frappe with Vue 3 Composition API
 + 📚 Mastering ERPNext Customization Techniques
 ```
-
+</div>
+  
 <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" style="visibility:visible;max-width:100%;">
 
 <br/> <br/> <br/>
