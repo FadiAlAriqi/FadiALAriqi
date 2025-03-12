@@ -9,11 +9,10 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b7611ocqx16ya4b8yjm6slbz7px6qb0pxmhgqmjwbc3t2&ep=v1_gifs_search&rid=giphy.gif&ct=g" style="border-radius: 50%; width: 300px;">
 </div>
 
-<h3 align="center">🚀 Full Stack Developer | Frappe & Vue.js Specialist</h3>
+<h3 align="center">🚀 Full Stack Developer | Laravel & Frappe & Vue.js Specialist</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F72E&center=true&vCenter=true&width=435&lines=Building+Awesome+Web+Apps;Open+Source+Enthusiast;ERPNext+Customization+Expert" alt="Typing Animation" />
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F72E&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Laravel+Specialist;Vue+JS+Specialist;Nuxt+JS+Specialist;Frappe+Specialist;ERPNext+Customization+Expert;Building+Awesome+Web+Apps;Open+Source+Enthusiast;" alt="Typing Animation" /></p>
 
 ---
 
@@ -25,9 +24,9 @@
 ![Frappe](https://img.shields.io/badge/-Frappe-2496ED?style=flat-square&logo=frappe&logoColor=white)
 ![ERPNext](https://img.shields.io/badge/-ERPNext-FF6F00?style=flat-square&logo=erpnext&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
-![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-00C58E?style=flat-square&logo=nuxt.js&logoColor=white)
+![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-00C58E?style=flat-square&logo=nuxt&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-38B2AC?style=flat-square&logo=bootstrap-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-38B2AC?style=flat-square&logo=bootstrap&logoColor=white)
 
 </div>
 
@@ -48,9 +47,8 @@
 ### 🏆 Featured Projects
 
 <div align="center">
-  
-[![Frappe-Vue Integration](https://github-readme-stats.vercel.app/api/pin/?username=FadiAlAriqi&repo=Frappe-Vue-Dashboard&theme=dark)](https://github.com/FadiAlAriqi/Frappe-Vue-Dashboard)
-[![ERPNext Tools](https://github-readme-stats.vercel.app/api/pin/?username=FadiAlAriqi&repo=ERPNext-Custom-Modules&theme=dark)](https://github.com/FadiAlAriqi/ERPNext-Custom-Modules)
+
+[![Facebook-Posts-Taker](https://github-readme-stats.vercel.app/api/pin/?username=FadiAlAriqi&repo=Facebook-Posts-Taker&theme=dark)](https://github.com/FadiAlAriqi/Facebook-Posts-Taker.git)
 
 </div>
 
@@ -61,9 +59,9 @@
 <div align="center">
   
 ```diff
-+ 🚀 Implementing Frappe with Vue 3 Composition API
++ 🚀 developing POSAwesome system built with Vue js and integrated with ERPNext system
++ 🔥 Implementing Frappe with Vue 3 Composition API
 + 📚 Mastering ERPNext Customization Techniques
-+ 🔥 Building Scalable SaaS Applications
 ```
 
 📫 Contact Me
@@ -75,4 +73,5 @@
 <!--   <a href="https://t.me/yourprofile" target="_blank"> <img src="https://img.icons8.com/3d-fluency/94/telegram.png" alt="Telegram" width="60"/> </a> -->
 </div>
 
+<img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg" style="visibility:visible;max-width:100%;">
 
